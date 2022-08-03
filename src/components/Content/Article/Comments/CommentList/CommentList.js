@@ -8,6 +8,74 @@ const CommentList = () => {
       <CommentItem />
       <CommentItem />
       <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem /> <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem /> <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
+      <CommentItem />
     </div>
   );
 };

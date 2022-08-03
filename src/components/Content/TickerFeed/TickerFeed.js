@@ -9,6 +9,48 @@ const TickerFeed = () => {
       <TickerItem />
       <TickerItem />
       <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
+      <TickerItem />
     </div>
   );
 };

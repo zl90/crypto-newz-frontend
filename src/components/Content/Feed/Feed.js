@@ -7,6 +7,38 @@ const Feed = () => {
       <FeedItem />
       <FeedItem />
       <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
+      <FeedItem />
     </div>
   );
 };
