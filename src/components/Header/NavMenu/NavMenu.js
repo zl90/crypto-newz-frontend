@@ -15,8 +15,6 @@ const NavMenu = () => {
       } else {
         articleContainer.style.display = "none";
       }
-    } else {
-      console.log("article container not found");
     }
   };
 
